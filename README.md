@@ -1,5 +1,5 @@
 # FTP-Server
-A Simple FTP server
+A Simple FTP server: use the Unix Socket API to construct a minimal ftp server.
 ## Goals
 - To learn how to program with TCP sockets in C
 - To learn how to read and implement a well-specified protocol.
