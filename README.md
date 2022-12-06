@@ -7,3 +7,5 @@ A Simple FTP server: use the Unix Socket API to construct a minimal ftp server.
 - To implement the server side of the FTP protocol
 - To develop general networking experimental skills
 - To develop a further understanding of what TCP does, and how to manage multiple TCP connections from the server perspective.
+## State diagram for server and client model
+<img width="384" alt="image" src="https://user-images.githubusercontent.com/62523802/205857683-be127271-3cf3-4343-b707-b41219f210fd.png">
